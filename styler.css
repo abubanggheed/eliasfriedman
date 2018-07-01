@@ -9,12 +9,12 @@ html, body {
 }
 .title {
   font-family: 'Lucidia Sans Unicode', Ariel;
- margine: 10px;
+ margin: 10px;
 }
 .info {
   font-family: "Courier-New", "Lucida Console", monospace;
   font-size: 0.75rem;
- margine: 10px;
+ margin: 10px;
 }
 .mugshot h4 {
   text-align: center;
@@ -39,6 +39,10 @@ html, body {
   list-style-type: none;
   display: inline-flex;
   flex-wrap: wrap;
+}
+.combi-item li {
+ display: inline-flex;
+ flex-wrap: wrap;
 }
 .setup {
  width: 120px; 
