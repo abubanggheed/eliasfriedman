@@ -19,6 +19,12 @@ html, body {
   text-align: center;
 }
 .block {
+ border-style: solid;
+ border-color: blue;
+ border-radius: 5px;
+}
+.block p {
+ margin-left: 200px;
 }
 .combi-item {
   list-style-type: none;
