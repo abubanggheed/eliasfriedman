@@ -1,6 +1,7 @@
 html, body {
  display: flex;
   flex-direction: column;
+ justify-content: center;
 }
 .top {
   display: inline-flex;
