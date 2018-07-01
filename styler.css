@@ -10,6 +10,9 @@
   font-family: "Courier-New", "Lucida Console", monospace;
   font-size: 0.4rem;
 }
+.mugshot {
+  text-align: center;
+}
 .block {
 }
 .combi-item {
