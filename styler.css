@@ -1,14 +1,14 @@
 .top {
   display: inline-flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .title {
   font-family: 'Lucidia Sans Unicode', Ariel;
-  background-color: blue;
 }
 .info {
   font-family: "Courier-New", "Lucida Console", monospace;
-  font-size: 0.4rem;
+  font-size: 0.6rem;
 }
 .mugshot {
   text-align: center;
