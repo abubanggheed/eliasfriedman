@@ -10,6 +10,8 @@
 .block {
 }
 .combi-item {
+  display: inline;
+  padding: 0;
 }
 .boltit {
 }
