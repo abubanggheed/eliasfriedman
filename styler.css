@@ -15,6 +15,9 @@
 .block {
 }
 .combi-item {
+  list-style-type: none;
+  margine: 0;
+  padding: 0;
   display: inline-flex;
   flex-wrap: wrap;
 }
