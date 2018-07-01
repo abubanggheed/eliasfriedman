@@ -4,8 +4,10 @@
   justify-content: center;
 }
 .title {
+  font-family: 'Lucidia Sans Unicode', Ariel;
 }
 .info {
+  font-family: "Courier-New", "Lucida Console", monospace;
 }
 .block {
 }
