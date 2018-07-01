@@ -5,15 +5,16 @@ html, body {
 .top {
   display: inline-flex;
   flex-wrap: wrap;
-  margin: 30px;
  justify-content: center;
 }
 .title {
   font-family: 'Lucidia Sans Unicode', Ariel;
+ margine: 50px;
 }
 .info {
   font-family: "Courier-New", "Lucida Console", monospace;
   font-size: 0.75rem;
+ margine: 50px;
 }
 .mugshot h4 {
   text-align: center;
