@@ -20,6 +20,8 @@
   flex-wrap: wrap;
 }
 .boltit {
+  font-wieght: bold;
 }
 .itit {
+  font-style: italic;
 }
