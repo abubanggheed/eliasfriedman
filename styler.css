@@ -1,7 +1,6 @@
 .top {
   display: inline-flex;
   flex-wrap: wrap;
-  margine: 20px;
 }
 .title {
   font-family: 'Lucidia Sans Unicode', Ariel;
