@@ -9,7 +9,7 @@ html, body {
 }
 .title {
   font-family: 'Lucidia Sans Unicode', Ariel;
- margine: 50px;
+ margine: 10px;
 }
 .info {
   font-family: "Courier-New", "Lucida Console", monospace;
@@ -18,11 +18,12 @@ html, body {
 }
 .mugshot h4 {
   text-align: center;
- text-color: yellow;
+ text-color: blue;
  text-shadow: 1px 1px 2px black;
 }
 .mugshot {
  box-shadow: 6px 6px 1px 1px darkgrey;
+}
 .block {
  border-style: solid;
  border-color: blue;
@@ -43,7 +44,7 @@ html, body {
  width: 120px; 
 }
 .boldit {
-  font-wieght: 700;
+  font-wieght: bold;
 }
 .itit {
   font-style: italic;
