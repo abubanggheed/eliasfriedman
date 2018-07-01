@@ -14,19 +14,21 @@ html, body {
 .info {
   font-family: "Courier-New", "Lucida Console", monospace;
   font-size: 0.75rem;
- margine: 50px;
+ margine: 10px;
 }
 .mugshot h4 {
   text-align: center;
  text-color: yellow;
  text-shadow: 1px 1px 2px black;
 }
+.mugshot {
+ box-shadow: 6px 6px darkgrey;
 .block {
  border-style: solid;
  border-color: blue;
  border-radius: 5px;
- margin: 30px;
- box-shadow: 12px 12px, darkblue;
+ margin: 10px;
+ box-shadow: 6px 6px, darkblue;
 }
 .block p {
  margin-left: 180px;
