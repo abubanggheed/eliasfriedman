@@ -14,7 +14,8 @@
 .block {
 }
 .combi-item {
-  display: inline;
+  display: inline-flex;
+  flex-wrap: wrap;
   padding: 0;
 }
 .boltit {
