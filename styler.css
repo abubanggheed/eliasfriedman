@@ -19,6 +19,9 @@
   display: inline-flex;
   flex-wrap: wrap;
 }
+.setup {
+ margine-right: 30px; 
+}
 .boldit {
   font-wieght: bold;
 }
